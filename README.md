@@ -4,8 +4,6 @@ _Developed by Rohan Paudel_
 > [!NOTE]
 > This project has been developed and designed to provide a freemium phone number validation service across the globe.
 
-## Phone Number Details API
-
 ## Overview
 The Phone Number Details API provides information about phone numbers, including region, type, validity, and more.
 
