@@ -1,5 +1,23 @@
 # Phone Number Result Document
 
+## Phone Number Details API
+
+## Overview
+The Phone Number Details API provides information about phone numbers, including region, type, validity, and more.
+
+## Endpoint
+
+**Get Phone Number Details**
+
+- **URL:** `https://phonenumberutils.gorkhacloud.com/phonenumberdetails`
+- **Method:** GET
+
+### Query Parameter
+
+- **phoneNumber:** The phone number you want to check. Ensure that the + sign in the country code is URL-encoded as `%2b`.
+
+##Response
+
 ## Title
 **Phone Number Result**
 
