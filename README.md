@@ -16,6 +16,10 @@ The Phone Number Details API provides information about phone numbers, including
 
 - **phoneNumber:** The phone number you want to check. Ensure that the + sign in the country code is URL-encoded as `%2b`.
 
+**Example Request:**
+
+https://phonenumberutils.gorkhacloud.com/phonenumberdetails?phoneNumber=%2b9779864987764
+
 ## Response
 
 ## Title
