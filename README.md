@@ -16,7 +16,9 @@ The Phone Number Details API provides information about phone numbers, including
 
 ### Query Parameter
 
-- **phoneNumber:** The phone number you want to check. Ensure that the + sign in the country code is URL-encoded as `%2b`.
+- **phoneNumber:** The phone number you want to check.
+- > [!WARNING]
+>  Ensure that the + sign in the country code is URL-encoded as `%2b`.
 
 **Example Request:**
 
