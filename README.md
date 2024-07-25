@@ -1,6 +1,9 @@
 # Phone Number Validation API
 _Developed by Rohan Paudel_
 
+> [!NOTE]
+> This project has been developed and designed to provide a freemium phone number validation service across the globe.
+
 ## Phone Number Details API
 
 ## Overview
